@@ -1,4 +1,4 @@
-# RON: Reverse Connection with Objectness Prior Networks for Object Detection
+# RON: Reverse Connection（反向连接） with Objectness Prior Networks for Object Detection
 
 RON is a state-of-the-art visual object detection system for efficient object detection framework. 
 The code is modified from [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn). 
